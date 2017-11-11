@@ -6,6 +6,7 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
+// Tina Hauck
 namespace SingleResponsibilityPrinciple
 {
     public class TradeProcessor
