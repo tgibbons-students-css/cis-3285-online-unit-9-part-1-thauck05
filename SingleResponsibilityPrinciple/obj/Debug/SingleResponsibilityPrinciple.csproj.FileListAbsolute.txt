@@ -4,3 +4,10 @@ C:\Users\tgibbons\Source\Repos\cis-3285-unit-9-practice-tgibbons-css\SingleRespo
 C:\Users\tgibbons\Source\Repos\cis-3285-unit-9-practice-tgibbons-css\SingleResponsibilityPrinciple\obj\Debug\SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
 C:\Users\tgibbons\Source\Repos\cis-3285-unit-9-practice-tgibbons-css\SingleResponsibilityPrinciple\obj\Debug\SingleResponsibilityPrinciple.exe
 C:\Users\tgibbons\Source\Repos\cis-3285-unit-9-practice-tgibbons-css\SingleResponsibilityPrinciple\obj\Debug\SingleResponsibilityPrinciple.pdb
+C:\Users\thauck05\Documents\College Courses and Info\Software Design\Unit 9\Assign_Unit9_Thauck\SingleResponsibilityPrinciple\bin\Debug\SingleResponsibilityPrinciple.exe.config
+C:\Users\thauck05\Documents\College Courses and Info\Software Design\Unit 9\Assign_Unit9_Thauck\SingleResponsibilityPrinciple\bin\Debug\SingleResponsibilityPrinciple.exe
+C:\Users\thauck05\Documents\College Courses and Info\Software Design\Unit 9\Assign_Unit9_Thauck\SingleResponsibilityPrinciple\bin\Debug\SingleResponsibilityPrinciple.pdb
+C:\Users\thauck05\Documents\College Courses and Info\Software Design\Unit 9\Assign_Unit9_Thauck\SingleResponsibilityPrinciple\obj\Debug\SingleResponsibilityPrinciple.csprojResolveAssemblyReference.cache
+C:\Users\thauck05\Documents\College Courses and Info\Software Design\Unit 9\Assign_Unit9_Thauck\SingleResponsibilityPrinciple\obj\Debug\SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\thauck05\Documents\College Courses and Info\Software Design\Unit 9\Assign_Unit9_Thauck\SingleResponsibilityPrinciple\obj\Debug\SingleResponsibilityPrinciple.exe
+C:\Users\thauck05\Documents\College Courses and Info\Software Design\Unit 9\Assign_Unit9_Thauck\SingleResponsibilityPrinciple\obj\Debug\SingleResponsibilityPrinciple.pdb
